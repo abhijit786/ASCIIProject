@@ -150,8 +150,8 @@ try {
 List<User> users = new ArrayList();
 String line = "";
 reader = new BufferedReader(new FileReader(filePath));
-String[] header = reader.readLine().split("\\|");
 reader.readLine();
+String[] header = reader.readLine().split("\\|");
 
 
 if(header[0].equals("region") && header[1].equals("country") && header[2].equals("itemtype"))
@@ -295,14 +295,40 @@ if(setlist.size()>0)
 	String todaysdate=(String)(sdf.format(date));
 	if(filedate.equals(todaysdate))
 	{
-		System.out.println("starting read input CSV file");
-		logging("starting read input CSV file","info");
-		readCsv(inputfilePath);
-	}
+
+		BufferedReader readerinp = null;
+		readerinp = new BufferedReader(new FileReader(inputfilePath));
+		//Reading the Header for validating the file
+
+		String[] headerinp = readerinp.readLine().split("\\|");
+		sdf = new SimpleDateFormat("dd-MM-yyyy");
+		 todaysdate=(String)(sdf.format(date));
+		
+		//System.out.println(headerinp[1]);
+		//System.out.println(todaysdate);
+		 
+		if(headerinp[1].equals(todaysdate))
+		{
+			
+
+			System.out.println("starting read input CSV file");
+			logging("starting read input CSV file","info");
+			readCsv(inputfilePath);
+			
+		}
+		else
+		{
+			System.out.println("Issue with The Bancs File Date!!");
+			logging("Issue with The Bancs File Date!!","info");
+			
+		}
+		
+		}
+		
 	else
 	{
-		System.out.println("Input CSV file is not updated!!!");
-		logging("Input CSV file is not updated!!!","severe");
+		System.out.println("Input CSV file is not updated Please Contact SOS Team to run the Job !!!");
+		logging("Input CSV file is not updated Please Contact SOS Team to run the Job !!!","severe");
 	}
 	
 
