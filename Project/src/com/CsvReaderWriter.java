@@ -175,6 +175,8 @@ System.out.printf("[userId=%s, firstName=%s, lastName=%s]\n", u.getRegion(), u.g
 System.out.println("Total Records in input file "+users.size());
 logging("Total Records to be processed:"+users.size(),"info");
 
+if(users.size()>0)
+{
 if(checkCsv(outputfilepath, users))
 {
 	System.out.println("Performing the Replacement of characters....");
@@ -188,6 +190,13 @@ else{
 	logging("File Cant be processed as it has new extra character Please check Character Set!","severe");
 	logging("Program Execution Ended","info");
 	
+}
+}
+else
+{
+	System.out.println("Input CSV File is Empty!!");
+	logging("Input CSV File is Empty!!","severe");
+	logging("Program Execution Ended","info");
 }
 }
 else
