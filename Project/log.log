@@ -1,0 +1,164 @@
+Oct 18, 2018 4:29:44 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:29:44 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:29:44 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:29:44 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:2
+Oct 18, 2018 4:29:44 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:29:44 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:29:58 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:29:58 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:29:58 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:29:58 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:2
+Oct 18, 2018 4:29:58 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:29:58 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:30:13 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:30:13 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:30:13 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:30:13 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:2
+Oct 18, 2018 4:30:13 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:30:13 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:32:30 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:32:30 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:32:30 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:32:30 AM com.CsvReaderWriter logging
+INFO: Input CSV Header is invalid !!!
+Oct 18, 2018 4:32:30 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:33:06 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:33:06 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:33:06 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:33:06 AM com.CsvReaderWriter logging
+INFO: Input CSV Header is invalid !!!
+Oct 18, 2018 4:33:06 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:33:47 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:33:47 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:33:47 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:33:47 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:33:47 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:33:47 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:42:42 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:42:42 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:42:42 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:42:42 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:42:42 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:42:42 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:43:12 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:43:13 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:43:13 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:43:13 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:43:13 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:43:13 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:43:42 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:43:42 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:43:42 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:43:42 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:43:42 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:43:42 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:45:22 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:45:22 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:45:22 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:45:22 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:45:22 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:45:22 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:47:05 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:47:05 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:47:05 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:47:05 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:47:05 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:47:05 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:47:22 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:47:22 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:47:22 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:47:22 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:47:22 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:47:22 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:50:22 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:50:22 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:50:22 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:50:22 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:50:22 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:50:22 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
+Oct 18, 2018 4:54:23 AM com.CsvReaderWriter logging
+INFO: Program Execution Started
+Oct 18, 2018 4:54:23 AM com.CsvReaderWriter logging
+INFO: starting read input Set file
+Oct 18, 2018 4:54:23 AM com.CsvReaderWriter logging
+INFO: starting read input CSV file
+Oct 18, 2018 4:54:23 AM com.CsvReaderWriter logging
+INFO: Total Records to be processed:1
+Oct 18, 2018 4:54:23 AM com.CsvReaderWriter logging
+SEVERE: File Cant be processed as it has new extra character Please check Character Set!
+Oct 18, 2018 4:54:23 AM com.CsvReaderWriter logging
+INFO: Program Execution Ended
